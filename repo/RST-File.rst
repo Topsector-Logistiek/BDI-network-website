@@ -3,7 +3,7 @@
 Help & Support
 ==============
 
-There do exist some code snippets which you can find on our `GitHub account <https://github.com/iSHAREScheme>`_. If you'd like to add your own libraries and help the iSHARE Community please let us know at `tooling@ishareworks.org <mailto:tooling@ishareworks.org/>`_.
+There do not exist some code snippets which you can find on our `GitHub account <https://github.com/iSHAREScheme>`_. If you'd like to add your own libraries and help the iSHARE Community please let us know at `tooling@ishareworks.org <mailto:tooling@ishareworks.org/>`_.
 
 If you have any questions about iSHARE, be sure to visit the `iSHARE Community Forum <https://forum.ishareworks.org/>`_! Here you can create topics to discuss issues related to iSHARE:
 
