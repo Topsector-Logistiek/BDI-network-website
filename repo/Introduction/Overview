@@ -1,0 +1,26 @@
+<article>
+
+    <div>
+  
+        <img src="http://dev.bdi.buro210.com/wp-content/uploads/2023/01/modern-office-building-low-angle-view-skyscrapers-city-singapore-modern-office-building-low-angle-view-skyscrapers-city-singapore.png">
+
+        <div class="content">
+            <h4>Overview</h4>
+            <p>
+              The Basic Data Infrastructure (BDI) is a set of agreements that allows participating parties to jointly (federatively) develop a specific IT network. This IT network makes it possible for data to be shared and/or retrieved from the source after authorisation. The BDI is a realisation of concepts that are being developed as part of the European FEDeRATED project. The BDI mainly focuses on event-driven coordination in the physical world where many parties together need to achieve a result: like in logistics. In logistics everything is about contractual agreements, coordination between many (sub)contractors and service providers, and about demonstrating compliance to government bodies such as Customs. The actions required to maintain the physical flow of goods are the trigger for all kinds of ‘events’ in the network. Knowing that relevant events are taking place and then being able to check the source is very important to all parties involved.
+            </p>
+            
+            <p>
+              The development is usecase driven. With each iteration the BDI components, and the semantic model are further enriched.
+            </p>
+            
+            <p>
+             To create a BDI implementation, take a look at the toolkit, and the reference implementations of the existing usecases. If additions are required to support your usecase, express this via the contact page.
+            </p>
+            
+            </div>
+        
+  
+    </div>
+
+</article>
