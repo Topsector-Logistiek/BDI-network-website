@@ -14,3 +14,7 @@ If you have any questions about iSHARE, be sure to visit the `iSHARE Community F
 If you find a way how this documentation could be improved, do not hesitate to make a pull request with your proposed changes.
 
 For any iSHARE related questions feel free to contact us at `tooling@ishareworks.org <mailto:tooling@ishareworks.org/>`_.
+
+.. raw:: html
+
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/bH6rjBm3wUA"  width="100%" height="350"></iframe>
