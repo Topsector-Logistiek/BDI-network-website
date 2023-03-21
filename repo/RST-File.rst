@@ -1,6 +1,6 @@
 .. _refHelp:
 
-Help, Support & Assistance
+Help & Assistance
 ==============
 
 There do not exist some code snippets which you can find on our `GitHub account <https://github.com/iSHAREScheme>`_. If you'd like to add your own libraries and help the iSHARE Community please let us know at `tooling@ishareworks.org <mailto:tooling@ishareworks.org/>`_.
@@ -17,4 +17,4 @@ For any iSHARE related questions feel free to contact us at `tooling@ishareworks
 
 .. raw:: html
 
-<iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/bH6rjBm3wUA"  width="100%" height="350"></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/bH6rjBm3wUA"  width="100%" height="350"></iframe>
